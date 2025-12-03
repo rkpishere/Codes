@@ -1,0 +1,22 @@
+# Ignore class files
+*.class
+
+# Ignore VS Code files
+.vscode/
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore build directories
+bin/
+build/
+out/
+
+# Ignore Windows system files
+Thumbs.db
+Desktop.ini
+
+# Ignore IDE folders
+.idea/
+*.iml
