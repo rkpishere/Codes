@@ -12,7 +12,7 @@ public class BinaryTress {
             this.left = null;
             this.right = null;
         }
-    }
+    } 
 
     static class Tree {
         static int idx = -1;

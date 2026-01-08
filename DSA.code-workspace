@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.autoSave": "afterDelay",
+		"explorer.fileNesting.enabled": true,
+		"code-runner.clearPreviousOutput": true,
+		"code-runner.defaultLanguage": "java"
+	}
+}
